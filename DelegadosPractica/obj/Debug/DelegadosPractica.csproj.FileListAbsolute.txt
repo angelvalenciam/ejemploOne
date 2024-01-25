@@ -1,0 +1,10 @@
+C:\Users\Angel valencia\Downloads\office\DelegadosPractica\DelegadosPractica\bin\Debug\DelegadosPractica.exe.config
+C:\Users\Angel valencia\Downloads\office\DelegadosPractica\DelegadosPractica\bin\Debug\DelegadosPractica.exe
+C:\Users\Angel valencia\Downloads\office\DelegadosPractica\DelegadosPractica\bin\Debug\DelegadosPractica.pdb
+C:\Users\Angel valencia\Downloads\office\DelegadosPractica\DelegadosPractica\obj\Debug\DelegadosPractica.csproj.AssemblyReference.cache
+C:\Users\Angel valencia\Downloads\office\DelegadosPractica\DelegadosPractica\obj\Debug\DelegadosPractica.Form1.resources
+C:\Users\Angel valencia\Downloads\office\DelegadosPractica\DelegadosPractica\obj\Debug\DelegadosPractica.Properties.Resources.resources
+C:\Users\Angel valencia\Downloads\office\DelegadosPractica\DelegadosPractica\obj\Debug\DelegadosPractica.csproj.GenerateResource.cache
+C:\Users\Angel valencia\Downloads\office\DelegadosPractica\DelegadosPractica\obj\Debug\DelegadosPractica.csproj.CoreCompileInputs.cache
+C:\Users\Angel valencia\Downloads\office\DelegadosPractica\DelegadosPractica\obj\Debug\DelegadosPractica.exe
+C:\Users\Angel valencia\Downloads\office\DelegadosPractica\DelegadosPractica\obj\Debug\DelegadosPractica.pdb
